@@ -1,0 +1,29 @@
+.movie-poster {}
+
+.show-details {
+    cursor: pointer;
+}
+
+.genre-title {
+    font-size: 40px;
+    background-color: rgb(16, 111, 111);
+    color: white;
+    font-weight: bold;
+}
+
+.movie-details {
+    transform: translate(-50%, -50%);
+}
+
+.close-button {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    transform: translate(-50%, 50%);
+}
+
+.add-my-list-button {
+    bottom: 1rem;
+    right: 1rem;
+    cursor: pointer;
+}
